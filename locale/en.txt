@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Mall
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_AB9DB5F7_A263_6A18_41DE_01FE2AA0DEF9.label = Stretford-on-sea
+video_B3065D2D_A2DD_1A08_41B4_7D307F20E93A.label = beach
